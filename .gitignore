@@ -1,0 +1,14 @@
+
+# IDE
+.idea/
+*.iml
+
+# Build
+gradlew
+gradlew.bat
+.gradle/
+gradle/
+build/
+out/
+*.class
+
